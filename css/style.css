@@ -32,6 +32,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .text-center {
   text-align: center;
+  padding-top: 10px;
 }
 
 
@@ -131,7 +132,6 @@ a:focus {
     BOOTSTRAP  STYLES CHANGES
     =====================================================*/
 
-
 .navbar-brand {
   float: left;
   height: 50px;
@@ -149,10 +149,12 @@ a:focus {
     padding-right:70px;
     padding-left:30px;
 }
+
+
+
 /*==========================================
     PORTFOLIO STYLES
     =====================================================*/
-
 
 .portfolio-items,
 .portfolio-filter {
